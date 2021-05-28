@@ -9,7 +9,8 @@ This is example is t show the different parts ofthe Git repository and various c
 ## Purpose
 
 Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples.
 
 ## Deployment
-
+This is a semple eb priject
 ## How to contribute
