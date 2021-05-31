@@ -14,6 +14,7 @@ As stated above, the main purpose is to provide simple examples.
 ## Deployment
 This is a semple eb priject
 ## How to contribute
+Please fork this repository and then issue Pull Request for review.
 
 ##Copyright
 Git.Training.
