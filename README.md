@@ -14,3 +14,6 @@ As stated above, the main purpose is to provide simple examples.
 ## Deployment
 This is a semple eb priject
 ## How to contribute
+
+##Copyright
+Git.Training.
